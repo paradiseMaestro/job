@@ -1,11 +1,4 @@
 <?php
-/******************************************************************************
-
-                            Online PHP Interpreter.
-                Code, Compile, Run and Debug php program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
 
 
 // just add into variable "$horse" any position ang get some variation
